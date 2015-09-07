@@ -1,4 +1,8 @@
 ﻿16a4b28b-f1d7-4b03-a3cf-dd9c388ccbee-->und\16a4b28b-f1d7-4b03-a3cf-dd9c388ccbee
+94f1eb98-f248-476e-a8ac-794b7b47f874-->und\94f1eb98-f248-476e-a8ac-794b7b47f874
+94f1eb98-f248-476e-a8ac-794b7b47f874.0-->Form\Форма
+bb3593d2-130f-4e34-b03a-d4faf99c09fc-->und\bb3593d2-130f-4e34-b03a-d4faf99c09fc
+bb3593d2-130f-4e34-b03a-d4faf99c09fc.0-->Form\РедакторТекста
 copyinfo-->und\copyinfo
 root-->und\root
 version-->und\version

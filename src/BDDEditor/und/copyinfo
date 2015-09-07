@@ -1,6 +1,15 @@
 ﻿{4,
-{0},
-{0},
+{2,
+{94f1eb98-f248-476e-a8ac-794b7b47f874,94f1eb98-f248-476e-a8ac-794b7b47f874,1,
+{d5b0e5ed-256d-401c-9c36-f630cafd8a62,"Форма"}
+},
+{da969ffb-7dff-4fbc-8e77-73563c46a186,da969ffb-7dff-4fbc-8e77-73563c46a186,1,
+{c3831ec8-d8d5-4f93-8a22-f9bfae07327f,"BDDEditor"}
+}
+},
+{1,
+{96a1aabc-7b83-44bb-af26-b948ba0eacaa,da969ffb-7dff-4fbc-8e77-73563c46a186,0}
+},
 {0},
 {0,0},
 {0}
