@@ -1,6 +1,6 @@
 ﻿# Vanessa-BDD-Editor
 
-[![Join the chat at https://gitter.im/silverbulleters/vanessa-bdd-editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-bdd-editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/silverbulleters/vanessa-bdd-editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-bdd-editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) **Здесь вы можете задавать любые вопросы разработчикам и активным участникам**
 
 Инструмент по созданию и редактированию feature-файлов для 1С.
 
