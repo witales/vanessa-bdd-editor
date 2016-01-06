@@ -1,0 +1,24 @@
+{"feature":
+[{"Bussines":[
+  {"BussinesInteligense":[{"BigData":[]},
+                          {"Dashboards":[]},
+                          {"MasterDataManagement":[]}]},
+  {"Finanse":[]},
+  {"FrontDesktops":[]},
+  {"Integrations":[{"Adapters":[]},
+                  {"Events":[]},
+                  {"Services":[]}]},
+  {"OperationalManagement":[]},
+  {"Workshop":[{"Materials":[]}]}
+  ]
+ },
+ {"Core":[]
+ },
+ {"Support":[]
+ },
+ {"Draft":[]
+ },
+  {"Vendors":[]
+ }
+
+]}
