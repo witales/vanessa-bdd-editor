@@ -1,17 +1,25 @@
-
-{"feature":
-[
- {"Core":[
-  {"HRM":["и т.д."]},
-  {"CRM":["и т.д."]}
-  ]
- },
- {"Draft":[]
- },
- {"Support":[
-  {"Test":[{
-   "Test1":[]}]},
-  {"Test2":[]}
-  ]
- }
-]}
+{ "версия": "1.0",
+  "описание": "Чистая система",
+  "features":[{"Bussines":[
+		{"BussinesInteligense":[
+                          {"BigData":[]},
+                          {"Dashboards":[]},
+                          {"MasterDataManagement":[]}
+						  ]},
+		{"Finanse":[]},
+		{"FrontDesktops":[]},
+		{"Integrations":[
+                {"Adapters":[]},
+                {"Events":[]},
+                {"Services":[]}
+				]},
+		{"OperationalManagement":[]},
+		{"Workshop":[
+				{"Materials":[]}
+				]}
+	]},
+ {"Core":[]},
+ {"Support":[]},
+ {"Drafts":[]},
+ {"Vendors":[]}
+]} 
