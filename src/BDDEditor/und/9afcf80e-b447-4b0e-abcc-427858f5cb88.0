@@ -1642,9 +1642,107 @@
 {1,
 {3}
 },0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,2,2,1,1,0,0,0,1,2,0,0,1,1,
-{0},
-{4,0,
-{0},"",-1,-1,1,0,""},
+{1,
+{11}
+},
+{4,3,
+{0},"",-1,-1,0,
+{
+{#base64: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}
+},0,""},
 {3,4,
 {0}
 },
@@ -2489,7 +2587,7 @@
 {1,0},
 {1,
 {15}
-},0,1,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,2,2,1,1,0,0,0,1,2,0,0,1,1,
+},0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,2,2,1,1,0,0,0,1,2,0,0,1,1,
 {1,
 {7}
 },
@@ -2607,7 +2705,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {7,3,0,1,100},
 {0,0,0},1,1,0,
 {0},
-{0},1,
+{16,01833a5a-6553-4c49-b445-095018107bb5,05468165-f954-45a5-84f2-6641c51f9f23,0ae4bea5-23be-42a7-b69e-97b11b29c453,0d0249a4-2b2f-4fc0-a66f-b36f9494b3cc,2bbe4e12-06d2-409b-a972-eea585125d83,37740564-9e86-44a0-bea9-3f485a5a3f91,51c99108-107c-43e1-8918-e48835bf2495,58b2a785-23f6-4b0e-a324-9a1323285595,88078230-1f6b-415f-99e4-ad2ff73810cf,8af6ebff-cd02-4bfe-a984-44a292623708,8d772f97-c0ef-47c0-9cb0-efea28c61341,9ef79140-3de6-436a-8dda-610bb963f5db,b0016a68-ec64-4e6d-b905-c71fd62efc4c,b41f5bbc-ba5d-4888-8cd1-db246a371418,e7216412-03ac-4a81-99c2-1d7c28e88e31,fa51b106-eae6-44c7-8054-76cbb3100603},1,
 {19,
 {318,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,8,"ОбъемПроектаКонтекстноеМеню",
 {1,0},
@@ -7159,14 +7257,21 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 
 &НаСервере 
 Процедура ЗаполнитьКонтекстноеМеню()
-	Пункт1=Элементы.Добавить(""ДеревоРедактораКонтекстноеМенюПунктВыполнитьСценарий"", Тип(""КнопкаФормы""), Элементы.ДеревоРедактора.КонтекстноеМеню);
-	Пункт1.Заголовок=""Открыть feature файл в редакторе"";
-	Пункт1.ИмяКоманды=""ОткрытьФичаФайлВРедакторе"";
+	ПунктРД1=Элементы.Добавить(""ДеревоРедактораКонтекстноеМенюПунктВыполнитьСценарий"", Тип(""КнопкаФормы""), Элементы.ДеревоРедактора.КонтекстноеМеню);
+	ПунктРД1.Заголовок=""Открыть feature файл в редакторе"";
+	ПунктРД1.ИмяКоманды=""ОткрытьФичаФайлВРедакторе"";
 	
-	Пункт2=Элементы.Добавить(""ДеревоРедактораКонтекстноеМенюПунктОткрытьФичаФайл"", Тип(""КнопкаФормы""), Элементы.ДеревоРедактора.КонтекстноеМеню);
-	Пункт2.Заголовок=""Открыть feature файл в Notepad++"";
-	Пункт2.ИмяКоманды=""ОткрытьФичаФайлВNotepad"";
+	ПунктРД2=Элементы.Добавить(""ДеревоРедактораКонтекстноеМенюПунктОткрытьФичаФайл"", Тип(""КнопкаФормы""), Элементы.ДеревоРедактора.КонтекстноеМеню);
+	ПунктРД2.Заголовок=""Открыть feature файл в Notepad++"";
+	ПунктРД2.ИмяКоманды=""ОткрытьФичаФайлВNotepad"";
 	
+	ПунктОП1=Элементы.Добавить(""ОбъемПроектаКонтекстноеМенюПунктВыполнитьСценарий"", Тип(""КнопкаФормы""), Элементы.ОбъемПроекта.КонтекстноеМеню);
+	ПунктОП1.Заголовок=""Открыть feature файл в редакторе"";
+	ПунктОП1.ИмяКоманды=""ОткрытьФичаФайлВРедакторе"";
+	
+	ПунктОП2=Элементы.Добавить(""ОбъемПроектаКонтекстноеМенюПунктОткрытьФичаФайл"", Тип(""КнопкаФормы""), Элементы.ОбъемПроекта.КонтекстноеМеню);
+	ПунктОП2.Заголовок=""Открыть feature файл в Notepad++"";
+	ПунктОП2.ИмяКоманды=""ОткрытьФичаФайлВNotepad"";
 КонецПроцедуры
 
 &НаКлиенте
@@ -7190,7 +7295,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 
 &НаКлиенте
 Процедура ОткрытьФичаФайлВРедакторе(Команда)
-	СтрокаФичи = Элементы.ДеревоРедактора.ТекущиеДанные;
+	СтрокаФичи = Элементы[этаформа.ТекущийЭлемент.Имя].ТекущиеДанные;
 	Если СтрокаФичи.Фича <> Истина Тогда
 		СтрокаФичи = НайтиСтрокуФичиЧерезРодителя(СтрокаФичи);
 		Если СтрокаФичи = Неопределено Тогда
@@ -7224,7 +7329,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 
 &НаКлиенте
 Процедура ОткрытьФичаФайлВNotepad(Команда)
-	СтрокаФичи = Элементы.ДеревоРедактора.ТекущиеДанные;
+	СтрокаФичи = Элементы[этаформа.ТекущийЭлемент.Имя].ТекущиеДанные;
 	Если СтрокаФичи.Фича <> Истина Тогда
 		СтрокаФичи = НайтиСтрокуФичиЧерезРодителя(СтрокаФичи);
 		Если СтрокаФичи = Неопределено Тогда
@@ -7841,6 +7946,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 			Если ЭтоКаталог Тогда
 				Ветка1.ТипКартинки=0;
 			Иначе
+				Ветка1.Фича=Истина;
 				Ветка1.ТипКартинки=1;
 			КонецЕсли;
 			Если СписокКомпонент1.Колонки.Найти(""КоличествоФичаФайлов"")<>Неопределено Тогда
@@ -8098,7 +8204,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {"B",1},0}
 },
 {0,0},
-{0,0},0,0,0,10,
+{0,0},0,0,0,11,
 {5,1,0,"Владелец",
 {1,1,
 {"ru","Владелец"}
@@ -8249,6 +8355,22 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },
 {"Pattern",
 {"B"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,11,0,"ТипКартинки",
+{1,1,
+{"ru","Тип картинки"}
+},
+{"Pattern",
+{"N",10,0,0}
 },
 {0,
 {0,
@@ -8616,7 +8738,7 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 {"B",1},0}
 },
 {0,0},
-{0,0},0,0,0,7,
+{0,0},0,0,0,8,
 {5,1,0,"Компонента",
 {1,1,
 {"ru","Компонента"}
@@ -8719,6 +8841,22 @@ FtsJh5CfHH8jLzNdU/yY3/8476if8/+p3j9onWx9YQAAAABJRU5ErkJggg==}
 },
 {"Pattern",
 {"N",10,0,0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0},0},
+{5,8,0,"Фича",
+{1,1,
+{"ru","Фича"}
+},
+{"Pattern",
+{"B"}
 },
 {0,
 {0,
