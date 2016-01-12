@@ -67,3 +67,5 @@
   * В форме текстового документа
   * В форме дерева
   * В форме форматированного документа (HTML)
+
+![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)
