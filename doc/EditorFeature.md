@@ -16,7 +16,7 @@
   * feature-Файл - требование, сценарий в формате BDD
 
 > Примечание: Большинство настроек параметров сохраняется автоматически, для удобства пользователей. Также сохраняется последняя активная закладка. 
-> Предыдущий шаг по созданию feature-файлов по шаблонам смотрите в инструкции: [https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/RequirementsGathering.md]("Сбор требований")
+> Предыдущий шаг по созданию feature-файлов по шаблонам смотрите в инструкции: ["Сбор требований"](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/RequirementsGathering.md)
 
 ### Открытие feature-файла для редактирования
 
