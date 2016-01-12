@@ -24,8 +24,10 @@
 
   * Путь к vanessa-stack - путь ко всему инструментарию стэка "разработки по правильному" (На основании каталога будут заполнены оставшиеся пути)
   * Пути инструментов (Если установлены некорректные пути, или вы используете инструменты отличной от ветки **"master"**
-  
+
 ![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B.png) 
+  
+> Примечание: Большинство настроек параметров сохраняется автоматически, для удобства пользователей. Также сохраняется последняя активная закладка.  
 
 ### Сбор требований
 
@@ -67,5 +69,7 @@
   * В режиме текстового документа
   * В режиме дерева
   * В режиме форматированного документа (HTML)
+
+Более подробно смотрите в инструкции: [https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/EditorFeature.md](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/EditorFeature.md "Редактирование feature-файлов")
 
 ![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)
