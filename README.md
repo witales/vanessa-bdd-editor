@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/silverbulleters/vanessa-bdd-editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/silverbulleters/vanessa-bdd-editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) **Здесь вы можете задавать любые вопросы разработчикам и активным участникам**
 
+[![Build Status](http://ci.silverbulleters.org/buildStatus/icon?job=Vanessa-Impact-and-Spec-Develop)](http://ci.silverbulleters.org/job/Vanessa-Impact-and-Spec-Develop/)
+
 Инструмент по созданию и редактированию feature-файлов для 1С.
 
 ## Функционал
