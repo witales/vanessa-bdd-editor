@@ -1,5 +1,5 @@
 ﻿{4,
-{20,
+{21,
 {11e8ccdc-397b-4678-a303-bf5da7043ce3,11e8ccdc-397b-4678-a303-bf5da7043ce3,2,
 {2bcef0d1-0981-11d6-b9b8-0050bae0a95d,"РолиКомпонентыИЦели"},
 {5d24a9d1-098e-11d6-b9b8-0050bae0a95d,"КомпонентВладелец"}
@@ -9,6 +9,9 @@
 },
 {22e81986-1634-4fd5-8ee9-b18a3eaac7b8,22e81986-1634-4fd5-8ee9-b18a3eaac7b8,1,
 {ec6bb5e5-b7a8-4d75-bec9-658107a699cf,"ПутьКCommons"}
+},
+{27ce9436-15b4-4f55-9949-002cfa05ca50,27ce9436-15b4-4f55-9949-002cfa05ca50,1,
+{ec6bb5e5-b7a8-4d75-bec9-658107a699cf,"КаталогVanessaStack"}
 },
 {38c85bdf-ea26-4020-8f76-bda62dad09fc,38c85bdf-ea26-4020-8f76-bda62dad09fc,1,
 {ec6bb5e5-b7a8-4d75-bec9-658107a699cf,"ПутьКVanessaBehavior"}
@@ -72,7 +75,7 @@
 {96a1aabc-7b83-44bb-af26-b948ba0eacaa,da969ffb-7dff-4fbc-8e77-73563c46a186,0},
 {bf46ebea-3d15-4920-a23e-24c22d6975e4,af52352c-88d7-4940-a674-be5ad162094b,0}
 },
-{35,
+{36,
 {
 {0,11e8ccdc-397b-4678-a303-bf5da7043ce3},bf46ebea-3d15-4920-a23e-24c22d6975e4,
 {-1}
@@ -83,6 +86,10 @@
 },
 {
 {0,22e81986-1634-4fd5-8ee9-b18a3eaac7b8},96a1aabc-7b83-44bb-af26-b948ba0eacaa,
+{-1}
+},
+{
+{0,27ce9436-15b4-4f55-9949-002cfa05ca50},96a1aabc-7b83-44bb-af26-b948ba0eacaa,
 {-1}
 },
 {
