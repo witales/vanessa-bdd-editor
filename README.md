@@ -26,3 +26,5 @@ http://vanessa.services/docs/faqs/epics
 ```
 Расширение документации будет произведено в процессе выпуска релиза 1.0
 ```
+
+[![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)
