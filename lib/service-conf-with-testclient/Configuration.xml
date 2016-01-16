@@ -96,8 +96,8 @@
 			<ConfigurationInformationAddress/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
-			<ModalityUseMode>Use</ModalityUseMode>
-			<SynchronousExtensionAndAddInCallUseMode>Use</SynchronousExtensionAndAddInCallUseMode>
+			<ModalityUseMode>DontUse</ModalityUseMode>
+			<SynchronousExtensionAndAddInCallUseMode>DontUse</SynchronousExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>DontUse</CompatibilityMode>
 			<DefaultConstantsForm/>
