@@ -97,7 +97,7 @@
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
 			<ModalityUseMode>DontUse</ModalityUseMode>
-			<SynchronousExtensionAndAddInCallUseMode>DontUse</SynchronousExtensionAndAddInCallUseMode>
+			<SynchronousExtensionAndAddInCallUseMode>Use</SynchronousExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>DontUse</CompatibilityMode>
 			<DefaultConstantsForm/>
@@ -109,18 +109,20 @@
 			<Subsystem>Обработки</Subsystem>
 			<Role>Админ</Role>
 			<Role>НедоступнаяРоль</Role>
+			<CommonCommand>ОбщаяКомандаДляСправочника1</CommonCommand>
 			<Constant>ПутьКBDDEditor</Constant>
-			<Constant>ПутьКBDDBehavior</Constant>
 			<Constant>ПутьККаталогуИнструментов</Constant>
 			<Constant>ПутьККоммонс</Constant>
 			<Constant>ПутьККаталогуФичей</Constant>
+			<Constant>ПутьКVanessaBehavior</Constant>
+			<Constant>ПутьКVanessaStack</Constant>
 			<Catalog>Справочник1</Catalog>
 			<Catalog>Справочник2</Catalog>
 			<Catalog>Справочник3</Catalog>
 			<Catalog>Склады</Catalog>
 			<Enum>Перечисление1</Enum>
-			<DataProcessor>BDDEditor</DataProcessor>
-			<DataProcessor>BDDBehavior</DataProcessor>
+			<DataProcessor>ОткрытьBDDEditor</DataProcessor>
+			<DataProcessor>ОткрытьVanessaBehavior</DataProcessor>
 			<InformationRegister>РегистрСведений1</InformationRegister>
 		</ChildObjects>
 	</Configuration>

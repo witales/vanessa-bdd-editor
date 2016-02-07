@@ -15,13 +15,14 @@
 			<Explanation/>
 			<Picture/>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.BDDEditor</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.BDDBehavior</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ОткрытьBDDEditor</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьКBDDEditor</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьКBDDBehavior</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьККаталогуИнструментов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьККоммонс</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьККаталогуФичей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ОткрытьVanessaBehavior</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьКVanessaBehavior</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ПутьКVanessaStack</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
