@@ -20,9 +20,6 @@ https://github.com/silverbulleters/vanessa-bdd-editor/milestones
 
 ## Документация
 
-http://vanessa.services/docs/faqs/epics
-
-
 ```
 Расширение документации будет произведено в процессе выпуска релиза 1.0
 ```
